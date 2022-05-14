@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```edn
 {
  :pronouns [he him]
@@ -11,7 +9,8 @@
               one-shot-learning static-analysis
               type-theory visual-odometry}
  :learning #{
-             c++ flax ghidra jax kotlin phoenix}
+             c++ flax ghidra jax japanese kotlin
+             phoenix}
  :languages #{
               bash c clojure elixir golang haskell
               java javascript julia python scala
