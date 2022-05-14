@@ -9,8 +9,8 @@
               one-shot-learning static-analysis
               type-theory visual-odometry}
  :learning #{
-             c++ flax ghidra jax japanese kotlin
-             phoenix}
+             c++ elm flax ghidra jax japanese
+             kotlin phoenix}
  :languages #{
               bash c clojure elixir golang haskell
               java javascript julia python scala
