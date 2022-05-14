@@ -2,19 +2,13 @@
 {
  :pronouns [he him]
  :interests #{
-              deep-learning functional-programming
-              molecular-biology robotics}
+              deep-learning functional-programming molecular-biology robotics}
  :exploring #{
-              distributed-systems motion-planning
-              one-shot-learning static-analysis
-              type-theory visual-odometry}
+              distributed-systems one-shot-learning static-analysis type-theory visual-odometry}
  :learning #{
-             c++ elm flax ghidra jax japanese
-             kotlin phoenix}
+             biology c++ elm flax ghidra jax japanese kotlin phoenix}
  :languages #{
-              bash c clojure elixir golang haskell
-              java javascript julia python scala
-              rust typescript}
+              bash c clojure elixir golang haskell java javascript julia python scala rust typescript}
  :markup-languages #{
                      html latex markdown}}
 ```
