@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+```edn
+{
+ :pronouns [he him]
+ :interests #{
+              deep-learning functional-programming
+              molecular-biology robotics}
+ :exploring #{
+              distributed-systems motion-planning
+              one-shot-learning static-analysis
+              type-theory visual-odometry}
+ :learning #{
+             c++ flax ghidra jax kotlin phoenix}
+ :languages #{
+              bash c clojure elixir golang haskell
+              java javascript julia python scala
+              rust typescript}
+ :markup-languages #{
+                     html latex markdown}}
+```
+
 <!--
 **HktOverload/HktOverload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
