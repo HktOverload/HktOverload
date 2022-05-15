@@ -1,6 +1,7 @@
 ```edn
 {
  :pronouns [he him]
+ :current-distro "OpenSUSE Tumbleweed"
  :interests #{
               deep-learning functional-programming molecular-biology robotics}
  :exploring #{
@@ -10,7 +11,9 @@
  :languages #{
               bash c clojure elixir golang haskell java javascript julia python scala rust typescript}
  :markup-languages #{
-                     html latex markdown}}
+                     html latex markdown}
+ :enjoys #{
+           anime ctfs distrohopping dnd minecraft osu}}
 ```
 
 <!--
