@@ -13,7 +13,7 @@
  :markup-languages #{
                      html latex markdown}
  :enjoys #{
-           anime ctfs distrohopping dnd minecraft osu}}
+           anime conlangs ctfs distrohopping dnd minecraft osu}}
 ```
 
 <!--
