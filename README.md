@@ -5,7 +5,7 @@
  :interests #{
               deep-learning functional-programming molecular-biology robotics}
  :exploring #{
-              distributed-systems one-shot-learning static-analysis type-theory visual-odometry}
+              distributed-systems static-analysis type-theory visual-odometry}
  :learning #{
              biology c++ elm flax ghidra jax japanese kotlin phoenix}
  :languages #{
