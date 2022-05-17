@@ -7,7 +7,7 @@
  :exploring #{
               distributed-systems static-analysis type-theory visual-odometry}
  :learning #{
-             biology c++ elm flax ghidra jax japanese kotlin phoenix}
+             c++ flax ghidra jax japanese kotlin phoenix}
  :languages #{
               bash c clojure elixir golang haskell java javascript julia python scala rust typescript}
  :markup-languages #{
