@@ -1,7 +1,7 @@
 ```edn
 {
  :pronouns [he him]
- :current-distro "OpenSUSE Tumbleweed"
+ :current-distro "Void Linux"
  :interests #{
               deep-learning functional-programming molecular-biology robotics}
  :exploring #{
