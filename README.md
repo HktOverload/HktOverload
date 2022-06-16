@@ -5,15 +5,15 @@
  :interests #{
               deep-learning functional-programming molecular-biology robotics}
  :exploring #{
-              distributed-systems static-analysis type-theory visual-odometry}
+              distributed-systems static-analysis type-theory}
  :learning #{
-             c++ flax ghidra jax japanese kotlin phoenix}
+             c++ flax ghidra jax japanese ocaml}
  :languages #{
-              bash c clojure elixir golang haskell java javascript julia python scala rust typescript}
+              c clojure elixir haskell java javascript julia python scala rust typescript}
  :markup-languages #{
                      html latex markdown}
  :enjoys #{
-           anime conlangs ctfs distrohopping dnd minecraft osu}}
+           anime conlangs distrohopping dnd minecraft osu}}
 ```
 
 <!--
