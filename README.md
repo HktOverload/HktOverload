@@ -1,7 +1,6 @@
 ```edn
 {
  :pronouns [he him]
- :current-distro "Void Linux"
  :interests #{
               deep-learning functional-programming molecular-biology robotics}
  :exploring #{
@@ -13,7 +12,7 @@
  :markup-languages #{
                      html latex markdown}
  :enjoys #{
-           anime conlangs distrohopping dnd minecraft osu}}
+           anime conlangs distrohopping dnd minecraft}}
 ```
 
 <!--
