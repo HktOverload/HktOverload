@@ -4,9 +4,9 @@
  :interests #{
               deep-learning functional-programming molecular-biology robotics}
  :exploring #{
-              distributed-systems static-analysis type-theory}
+              computational-geometry gpus type-theory}
  :learning #{
-             c++ flax ghidra jax japanese ocaml}
+             c++ flax glsl jax japanese ocaml}
  :languages #{
               c clojure elixir haskell java javascript julia python scala rust typescript}
  :markup-languages #{
