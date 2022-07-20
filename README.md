@@ -4,7 +4,7 @@
  :interests #{
               deep-learning functional-programming molecular-biology robotics}
  :exploring #{
-              computational-geometry gpu-architecture type-theory}
+              computational-geometry gpus quantum-computing type-theory}
  :learning #{
              c++ flax glsl jax japanese ocaml}
  :languages #{
